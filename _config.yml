@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
 title: "Student Portfolio"
 description: "STRAT 490R – Creating Digital Products with AI"
+
+color_theme: default
