@@ -1,7 +1,37 @@
+remote_theme: just-the-docs/just-the-docs
 plugins:
   - jekyll-remote-theme
-remote_theme: just-the-docs/just-the-docs
-title: "Student Portfolio"
-description: "[YOUR NAME HERE]"
 
-color_theme: default
+title: "Student Portfolio"
+description: "STRAT 490R – Creating Digital Products with AI"
+
+just_the_docs:
+  # Enable Home link at top of sidebar
+  show_home_in_nav: true
+  
+  # Custom navigation order
+  navigation:
+    - title: "Home"
+      url: /
+    - title: "About Me"
+      url: /about
+    - title: "Assignments"
+      url: /assignments
+      children:
+        - title: "Assignment 1"
+          url: /assignments/assignment-1
+        - title: "Assignment 2"
+          url: /assignments/assignment-2
+        - title: "Assignment 3"
+          url: /assignments/assignment-3
+        - title: "Assignment 4"
+          url: /assignments/assignment-4
+        - title: "Assignment 5"
+          url: /assignments/assignment-5
+    - title: "Final Project"
+      url: /final-project
+    - title: "Notes"
+      url: /notes
+
+# Remove bottom “site title” link
+aux_links: {}
