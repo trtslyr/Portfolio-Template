@@ -2,6 +2,12 @@
 _site/
 .quarto/
 
+# Jekyll artifacts (should not exist but just in case)
+.jekyll-cache/
+.nojekyll
+Gemfile*
+_config.yml
+
 # IDE files
 .vscode/
 .idea/
