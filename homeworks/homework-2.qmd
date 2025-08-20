@@ -1,0 +1,50 @@
+---
+title: "Homework 2 - Choosing the right AI tools"
+---
+
+## AI Tool Comparison Rubric (Submission)
+
+### Prompt / Project:
+- Explain here
+
+### Tools Compared
+- **Tool 1:** 
+- **Tool 2:** 
+
+---
+
+### Scoring Guide
+Enter a number 1–5 next to each category for both tools (1 = Very Poor, 5 = Excellent).
+
+---
+
+## Tool 1 Rubric
+
+1. **Ease of Use** — Score (1–5): 
+2. **Integration with Other Tools** — Score (1–5): 
+3. **Front-end Look & Feel** — Score (1–5): 
+4. **Back-end Functionality** — Score (1–5): 
+5. **AI Helpfulness** — Score (1–5): 
+6. **Speed to Result** — Score (1–5): 
+
+**Total for Tool 1 (out of 30): **
+
+---
+
+## Tool 2 Rubric
+
+1. **Ease of Use** — Score (1–5): 
+2. **Integration with Other Tools** — Score (1–5): 
+3. **Front-end Look & Feel** — Score (1–5): 
+4. **Back-end Functionality** — Score (1–5): 
+5. **AI Helpfulness** — Score (1–5): 
+6. **Speed to Result** — Score (1–5): 
+
+**Total for Tool 2 (out of 30): **
+
+---
+
+## Reflection
+
+Write a single paragraph reflecting on your experience comparing the two tools: what each did well or poorly, where you had to intervene, and which tool you would choose going forward and why.
+

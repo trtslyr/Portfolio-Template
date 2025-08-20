@@ -1,0 +1,28 @@
+---
+title: "Homework 1 - Understanding Git for collaboration and version control"
+---
+
+## 📤 Your Submission
+
+**This website IS your homework submission!** 
+
+Submit the URL of your live portfolio website on Learning Suite.
+
+---
+
+## ✅ Submission Checklist
+
+Before submitting, make sure you've customized:
+
+**1. Site Title (`_quarto.yml`)**
+- Change "Student Portfolio" to your name
+- Example: "Jane Smith's Portfolio"
+
+**2. About Me Page (`about.qmd`)**  
+- Replace ALL template content with your real information
+- Add your actual contact info, background, and goals
+- Remove any placeholder text like "*your@email.com*"
+
+---
+
+**Once you've made these changes, submit your portfolio URL on Learning Suite! 🚀**

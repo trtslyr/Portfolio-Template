@@ -1,0 +1,18 @@
+theme: just-the-docs
+
+title: "Student Portfolio"
+description: "STRAT 490R - Creating Digital Products with AI: Strategy & Prototyping"
+
+just_the_docs:
+  # Enable Home link at top of sidebar
+  show_home_in_nav: true
+  
+  # Color scheme: light, dark
+  color_scheme: light
+  
+  # Custom Google Fonts (optional)
+  # heading_font: "Roboto Slab"
+  # body_font: "Source Sans Pro"
+
+# Remove bottom “site title” link
+aux_links: {}

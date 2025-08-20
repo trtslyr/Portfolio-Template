@@ -1,0 +1,21 @@
+---
+title: "Homework 4 - Creating a Product Requirements Document (PRD)"
+---
+
+## 📋 Your PRD Submission
+
+**Instructions:** Copy and paste your completed PRD from the assignment template into this section below. 
+
+Replace this text with your full PRD content including all sections:
+- Version/Header info
+- Goals & Anti-goals  
+- Summary (background research)
+- Assumptions (customer pain)
+- Success Metrics
+- User Stories & Features
+- Technical Requirements
+- Risks & Dependencies
+
+---
+
+*Paste your PRD content here...*

@@ -1,0 +1,13 @@
+---
+title: "Homework 3 - Understanding Large Language Models"
+---
+
+## LLM Performance Study
+
+**Instructions:** Replace this section with your complete research paper analyzing the performance of three different LLMs across multiple categories.
+
+Your paper should include all required sections: Executive Summary, Methodology, Results by Category, Technical Analysis, Performance Summary, Recommendations, and Reflection.
+
+---
+
+*Paste your complete LLM research paper here...*

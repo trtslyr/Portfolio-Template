@@ -3,7 +3,7 @@ project:
   output-dir: _site
 
 website:
-  title: "Student Portfolio"
+  title: "[Your Name]'s Portfolio"
   description: "STRAT 490R – Creating Digital Products with AI"
   
   sidebar:
@@ -12,18 +12,18 @@ website:
         file: index.qmd
       - text: "About Me"  
         file: about.qmd
-      - section: "Assignments"
+      - section: "Homeworks"
         contents:
-          - text: "Assignment 1: AI Tools Exploration"
-            file: assignments/assignment-1.qmd
-          - text: "Assignment 2: Understanding LLMs"
-            file: assignments/assignment-2.qmd
-          - text: "Assignment 3: GitHub & Collaboration"
-            file: assignments/assignment-3.qmd
-          - text: "Assignment 4: Product Requirements"
-            file: assignments/assignment-4.qmd
-          - text: "Assignment 5: API Integration"
-            file: assignments/assignment-5.qmd
+          - text: "Homework 1 - Understanding Git for collaboration and version control"
+            file: homeworks/homework-1.qmd
+          - text: "Homework 2 - Choosing the right AI tools"
+            file: homeworks/homework-2.qmd
+          - text: "Homework 3 - Understanding Large Language Models"
+            file: homeworks/homework-3.qmd
+          - text: "Homework 4 - Creating a Product Requirements Document (PRD)"
+            file: homeworks/homework-4.qmd
+          - text: "Homework 5 - Understanding the internet and APIs"
+            file: homeworks/homework-5.qmd
       - text: "Final Project"
         file: final-project.qmd
       - text: "Notes"

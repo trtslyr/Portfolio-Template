@@ -1,0 +1,30 @@
+---
+title: "Homework 5 - Understanding the internet and APIs"
+---
+
+## 🌐 Your Landing Page Submission
+
+**Instructions:** Replace the placeholder link below with the URL to your live landing page.
+
+### My Landing Page
+
+**Link:** [Your Product Landing Page](https://your-domain.com)
+
+**Domain:** your-domain.com
+
+---
+
+### ✅ Submission Checklist
+
+Before submitting, make sure your landing page has:
+
+- [ ] **Custom domain** (not a subdomain like yoursite.framer.app)
+- [ ] **HTTPS enabled** (secure connection)
+- [ ] **Working CTA form** (at least email capture)
+- [ ] **Backend integration** (form data goes somewhere you control)
+- [ ] **Privacy note** included
+- [ ] **Professional appearance** (fast, simple, credible)
+
+---
+
+*Replace the example link above with your actual landing page URL!*

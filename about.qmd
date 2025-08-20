@@ -2,8 +2,6 @@
 title: "About Me"
 ---
 
-# About Me
-
 ## Contact
 - Email: *your@email.com*
 - GitHub: *https://github.com/yourusername*
