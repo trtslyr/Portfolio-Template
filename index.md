@@ -2,7 +2,8 @@
 
 Welcome to my course portfolio. This site hosts assignments, projects, notes, and other recourses.
 
-## [Course Notes](https://byu-strategy.github.io/strategy-prototyping/)
+## Course Notes:
+[https://byu-strategy.github.io/strategy-prototyping/](https://byu-strategy.github.io/strategy-prototyping/)
 
 ## Navigation
 - [About Me](about.md)
