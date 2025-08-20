@@ -1,4 +1,8 @@
-# Assignment 2
+---
+title: "Assignment 3: GitHub & Collaboration"
+---
+
+# Assignment 3: GitHub & Collaboration
 
 > Replace the prompts below with your submission. Put screenshots in `assets/images/` and link like:  
 > `![alt text](../assets/images/screenshot.png)`

@@ -1,4 +1,11 @@
-# Assignment 3
+---
+layout: default
+title: "Assignment 5: API Integration"
+parent: Assignments
+nav_order: 5
+---
+
+# Assignment 5: API Integration
 
 > Replace the prompts below with your submission. Put screenshots in `assets/images/` and link like:  
 > `![alt text](../assets/images/screenshot.png)`

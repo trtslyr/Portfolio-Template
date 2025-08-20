@@ -1,0 +1,39 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Student Portfolio"
+  description: "STRAT 490R – Creating Digital Products with AI"
+  
+  sidebar:
+    contents:
+      - text: "Home"
+        file: index.qmd
+      - text: "About Me"  
+        file: about.qmd
+      - section: "Assignments"
+        contents:
+          - text: "Assignment 1: AI Tools Exploration"
+            file: assignments/assignment-1.qmd
+          - text: "Assignment 2: Understanding LLMs"
+            file: assignments/assignment-2.qmd
+          - text: "Assignment 3: GitHub & Collaboration"
+            file: assignments/assignment-3.qmd
+          - text: "Assignment 4: Product Requirements"
+            file: assignments/assignment-4.qmd
+          - text: "Assignment 5: API Integration"
+            file: assignments/assignment-5.qmd
+      - text: "Final Project"
+        file: final-project.qmd
+      - text: "Notes"
+        file: notes/index.qmd
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    toc-location: right
+    code-copy: true
+    grid:
+      sidebar-width: 300px

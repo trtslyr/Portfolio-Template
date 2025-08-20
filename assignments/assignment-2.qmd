@@ -1,4 +1,8 @@
-# Assignment 1
+---
+title: "Assignment 2: Understanding LLMs"
+---
+
+# Assignment 2: Understanding LLMs
 
 > Replace the prompts below with your submission. Put screenshots in `assets/images/` and link like:  
 > `![alt text](../assets/images/screenshot.png)`

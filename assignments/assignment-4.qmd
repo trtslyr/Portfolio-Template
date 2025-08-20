@@ -1,4 +1,11 @@
-# Assignment 5
+---
+layout: default
+title: "Assignment 4: Product Requirements"
+parent: Assignments
+nav_order: 4
+---
+
+# Assignment 4: Product Requirements
 
 > Replace the prompts below with your submission. Put screenshots in `assets/images/` and link like:  
 > `![alt text](../assets/images/screenshot.png)`

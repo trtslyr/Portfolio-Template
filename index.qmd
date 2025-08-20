@@ -1,0 +1,11 @@
+---
+title: "STRAT 490R – Creating Digital Products with AI"
+---
+
+Welcome to my course portfolio. This site hosts assignments, projects, notes, and other resources.
+
+## Course Notes
+[https://byu-strategy.github.io/strategy-prototyping/](https://byu-strategy.github.io/strategy-prototyping/)
+
+---
+*Tip: Edit pages by clicking the pencil icon on GitHub, then **Commit changes**.*

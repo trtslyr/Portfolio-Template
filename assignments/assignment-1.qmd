@@ -1,7 +1,11 @@
-# Assignment 4
+---
+title: "Assignment 1: AI Tools Exploration"
+---
 
-> Replace the prompts below with your submission. Put screenshots in `assets/images/` and link like:  
-> `![alt text](../assets/images/screenshot.png)`
+# Assignment 1: AI Tools Exploration
+
+> Replace the prompts below with your submission. Put screenshots in `images/` and link like:  
+> `![alt text](../images/screenshot.png)`
 
 ## Summary
 One paragraph on what you built or explored.

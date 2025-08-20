@@ -1,0 +1,16 @@
+---
+layout: default
+title: Assignments
+nav_order: 3
+has_children: true
+---
+
+# Assignments
+
+All weekly work is listed here.
+
+- [Assignment 1: AI Tools Exploration](assignment-1.html)
+- [Assignment 2: Understanding LLMs](assignment-2.html)
+- [Assignment 3: GitHub & Collaboration](assignment-3.html)
+- [Assignment 4: Product Requirements](assignment-4.html)
+- [Assignment 5: API Integration](assignment-5.html)
